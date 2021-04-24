@@ -1,0 +1,1 @@
+https://github.com/aurelienduarte/emnist/blob/master/matlab/emnist-balanced.mat
